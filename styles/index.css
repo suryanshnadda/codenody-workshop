@@ -1,0 +1,40 @@
+#head
+{
+padding:10%;
+text-align:center;
+background-color:#3A1C56;
+color:white;
+}
+
+#main1
+{
+margin:8%;	
+}
+.card
+{	
+padding:4%;
+font-size:20px;
+
+}
+.card a
+{
+	color:#1059A3;
+}
+a:hover
+{
+text-decoration:none;	
+}
+#two
+{
+	background-color:#7494EA;	
+}
+#two a
+{
+	color:white;
+}
+#end
+{
+	background-color:#3A1C56;
+	text-align:right;
+	color:white;
+}

@@ -1,1 +1,1 @@
-https://github.com/suryanshnadda/bootstrap-workshop
+https://github.com/suryanshnadda/codenody-workshop
